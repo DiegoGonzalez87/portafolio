@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #f1f1f1;
+}
+
+.eso {
+    position: relative;
+    width: 100%;            
+    height: 100px;
+    background: #000;
+    padding: 50px;
+    color: #f1f1f1;
+}
+
+ul a{
+    text-decoration: none;
+    position: relative;
+    text-align: center;
+    color: #000;
+    margin: 0;
+    padding: 20px;
+    background: #f1f1f1;
+    border-radius: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font: bold;
+}
+ul a:hover{
+    
+    color: rgb(161, 150, 150);
+    background: #b3e976;
+}
+.gato{
+    position: absolute;
+    width: 100%;            
+    height: 500px;
+    padding: 50px;
+    color: #000;
+}
